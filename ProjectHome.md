@@ -1,0 +1,1 @@
+Provides a Parsley Adapter for flexunit and maven
